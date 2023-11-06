@@ -13,7 +13,7 @@ We recommend GitHub pages for HTML/CSS and Render.com for React. Your portfolio 
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/enrique-aguirre-00seven
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
