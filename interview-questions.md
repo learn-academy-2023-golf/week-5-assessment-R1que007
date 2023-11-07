@@ -10,7 +10,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Your answer: Arrays and Hashes are similar in the way they store information or data. Hashes, however, use symbols to access that data whereas data in arrays are accessed by calling on the index.
 
-Researched answer:
+Researched answer: 
+
+Two differences between arrays and hashes are the manner in which elements ordered and accessed. In arrays, elements are ordered by their index, while in hashes, there are no inherent order among key-value pairs. With arrays, elements are access with the index number and with hashes that information is accessed with a key.
+
+Two similarities between between arrays and hashes are that they are both iteratable. They are also both dynamically sized data structures, meaning that we may add and remove elements.
+
+Two similarities
 
 2. What does it mean to implement a TTD workflow?
 
